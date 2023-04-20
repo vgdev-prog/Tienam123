@@ -59,6 +59,6 @@ markdown-preview-github-styles.darkTheme
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tienam123&theme=dark&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=tienam123&theme=dark&mode=weekly)](https://git.io/streak-stats)
 ### :fire: My Top Languages :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tienam123&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
