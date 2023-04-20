@@ -4,7 +4,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=17&pause=1000&color=FFFFFF&multiline=true&width=300&height=25&lines=Welcome+on+my+GitHub)](https://git.io/typing-svg)
 --------------------------
 Web Develouper and Designer
---------------------------
 
 :telescope: I’m working in freelance as a Software Engineer and UX/UI designer contributing to frontend and backend for building web applications.
 - 🌍  I'm based in Ukraine
