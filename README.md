@@ -1,7 +1,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------
 ### Hi there, I'm Vladyslav Honchar !
 ---------------------------------------------------------------------------------------------------------------------------------------------
-### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=17&pause=1000&color=FFFFFF&center=true&multiline=true&width=300&height=25&lines=Welcome+on+my+GitHub)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=17&pause=1000&color=343434&multiline=true&width=300&height=25&lines=Welcome+on+my+GitHub)](https://git.io/typing-svg)
 --------------------------
 ### Web Develouper and Designer
 --------------------------
