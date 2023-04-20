@@ -1,7 +1,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------
-### Hi there, I'm Vladyslav Honchar ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+### Hi there, I'm Vladyslav Honchar !
 ---------------------------------------------------------------------------------------------------------------------------------------------
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=17&pause=1000&color=000000&center=true&multiline=true&width=300&height=25&lines=The+five+boxing+wizards+jump+quickly)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=17&pause=1000&color=000000&center=true&multiline=true&width=300&height=25&lines=Welcome+on+my+GitHub)](https://git.io/typing-svg)
 --------------------------
 Web Develouper and Designer
 --------------------------
