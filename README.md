@@ -62,4 +62,7 @@ markdown-preview-github-styles.darkTheme
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tienam123&theme=github_dark)
 
 ### :fire: My Top Languages :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tienam123&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tienam123&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tienam123&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=tienam123&theme=github_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tienam123&theme=github_dark&utcOffset=8)
