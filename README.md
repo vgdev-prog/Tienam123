@@ -4,7 +4,7 @@
 Web Develouper and Designer
 --------------------------
 
-:telescope: I’m working in freelance as a Software Engineer and contributing to frontend and backend for building web applications.
+:telescope: I’m working in freelance as a Software Engineer and UX/UI designer contributing to frontend and backend for building web applications.
 - 🌍  I'm based in Ukraine
 
 - 🖥️  You can see my portfolio [here](http://github.com/Tienam123)
