@@ -2,10 +2,16 @@
 
 ### Hi there, I'm Vladyslav 👋
 
+
+:telescope: I’m working in freelance as a Software Engineer and contributing to frontend and backend for building web applications.
+
 - 🔭 I'm currently working on learning Javascript
-- 🌱 I'm currently learning everything I can get my hands on
-- 📫 How to contact me: **dr.tienam123@gmail.com**
-- ⚡ Fun fact: **I love what I do — programming and layout have become a part of my life**
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url)
 ### My stack
 <div>
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
