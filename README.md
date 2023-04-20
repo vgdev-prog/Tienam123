@@ -4,12 +4,17 @@
 
 
 :telescope: I’m working in freelance as a Software Engineer and contributing to frontend and backend for building web applications.
-* 🌍  I'm based in Unraine
-* 🖥️  See my portfolio at [this link](http://github.com/Tienam123)
-* ✉️  You can contact me at [dr.tienam123@gmail.com](mailto:dr.tienam123@gmail.com)
-* 🧠  I'm learning React
-* 🤝  I'm open to collaborating on New interesting projects
-- 🔭 I'm currently working on learning Javascript
+- 🌍  I'm based in Ukraine
+
+- 🖥️  You can see my portfolio [here](http://github.com/Tienam123)
+
+- ✉️  You can contact me at [dr.tienam123@gmail.com](mailto:dr.tienam123@gmail.com)
+
+- 🧠  Now I'm curently learning <--(Here based)-->
+
+- 🤝  I'm open to collaborating on New interesting projects
+
+- 🔭 I'm currently working on Upwork. You can see my profile [here](http://github.com/Tienam123)
 
 - :seedling: Exploring Technical Content Writing.
 
