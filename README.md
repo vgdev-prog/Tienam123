@@ -6,7 +6,7 @@
 - 🌱 I'm currently learning everything I can get my hands on
 - 📫 How to contact me: **dr.tienam123@gmail.com**
 - ⚡ Fun fact: **I love what I do — programming and layout have become a part of my life**
-
+<div>
 ### My stack
 
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
@@ -41,6 +41,6 @@
 
 <img align="left" alt="Figma" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" />
 <img align="left" alt="" width="32px" src="" />
-
+</div>
 
 ### :fire: My Stats :
