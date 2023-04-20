@@ -43,4 +43,4 @@
 </div>
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tienam123&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tienam123&theme=dark&exclude_days=Mon%2CTue%2CWed%2CThu%2CFri)](https://git.io/streak-stats)
