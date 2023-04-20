@@ -1,6 +1,11 @@
 <h1>If builders built houses the way programmers write code, then the first woodpecker to sit on the facade would destroy civilization.... 👨‍🎨</h1>
 
 ### Hi there, I'm Vladyslav 👋
+Hi there, I'm Vladyslav Honchar ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+=========================================================================================================================================
+
+Web Develouper and Designer
+--------------------------
 
 
 :telescope: I’m working in freelance as a Software Engineer and contributing to frontend and backend for building web applications.
