@@ -10,7 +10,7 @@
 
 - ✉️  You can contact me at [dr.tienam123@gmail.com](mailto:dr.tienam123@gmail.com)
 
-- 🧠  Now I'm curently learning <--(Here based)-->
+- 🧠  [Now I'm curently learning <--(Here based)-->](https://www.freecodecamp.org/ukrainian/VladyslavHonchar)
 
 - 🤝  I'm open to collaborating on New interesting projects
 
