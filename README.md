@@ -40,4 +40,5 @@
 <img align="left" alt="Yarn" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" />
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </div>
+[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D21364%26project%3D%26in%3D0)](https://codetime.dev)
 
