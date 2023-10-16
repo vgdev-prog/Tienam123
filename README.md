@@ -2,6 +2,7 @@
 ### Hi there, I'm Vladyslav Honchar !
 ---------------------------------------------------------------------------------------------------------------------------------------------
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto&weight=700&size=17&pause=1000&color=FFFFFF&multiline=true&width=300&height=25&lines=Welcome+on+my+GitHub)](https://git.io/typing-svg)
+[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D21364%26project%3D%26in%3D0)](https://codetime.dev)
 --------------------------
 :telescope: I’m working in freelance as a Software Engineer and UX/UI designer contributing to frontend and backend for building web applications.
 - 🌍  I'm based in Ukraine
@@ -40,5 +41,5 @@
 <img align="left" alt="Yarn" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" />
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 </div>
-[![CodeTime badge](https://img.shields.io/endpoint?style=social&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D21364%26project%3D%26in%3D0)](https://codetime.dev)
+
 
