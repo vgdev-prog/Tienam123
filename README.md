@@ -64,7 +64,9 @@
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg" />
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mongodb/mongodb-original.svg" />
 </div>
- ---
+
+---
+
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/Tienam123/badges/large)
