@@ -80,6 +80,5 @@
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tienam123&layout=compact&theme=vision-friendly-dark" />
     </td>
   </tr>
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tienam123)](https://github.com/anuraghazra/github-readme-stats)
 </table>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark)
