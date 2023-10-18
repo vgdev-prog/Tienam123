@@ -43,7 +43,7 @@
 ---
 
 ### 💻 Технологии:
-
+<div>
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -63,7 +63,8 @@
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/jetbrains/jetbrains-original.svg" />
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg" />
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mongodb/mongodb-original.svg" />
-
+</div>
+ ---
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/Tienam123/badges/large)
