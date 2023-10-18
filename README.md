@@ -40,25 +40,38 @@
 
 ---
 
-### 💻 Технологии:
-<div>
-<img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />&nbsp
-<img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />&nbsp
-<img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />&nbsp
-  <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />&nbsp
-  <img align="left" alt="PHP" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" />&nbsp
-<img align="left" alt="Gulp" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gulp/gulp-plain.svg" />&nbsp
-<img align="left" alt="Webpack" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webpack/webpack-original.svg" />&nbsp
-<img align="left" alt="WordPress" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain.svg" />&nbsp
-<img align="left" alt="Vue" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" />&nbsp
-<img align="left" alt="React" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" />&nbsp
-<img align="left" alt="Git" width="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />&nbsp
-<img align="left" alt="Git" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" />&nbsp
-<img align="left" alt="Git" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" />&nbsp
-<img align="left" alt="npm" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />&nbsp
-<img align="left" alt="Yarn" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" />&nbsp
-<img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />&nbsp
-</div>
+### 💻 Технологии:  
+
+![HTML](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png)
+![CSS](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png)
+![SASS](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png
+)
+![JS](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png
+)
+![PHP](https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg
+)
+![GULP](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gulp/gulp-plain.svg
+)
+![Webpack](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webpack/webpack-original.svg
+)
+![Wordpress](https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain.svg
+)
+![Vue](https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg
+)
+![React](https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg
+)
+![MYSQL](https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg
+)
+![Composer](https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg
+)
+![npm](https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg
+)
+![yarn](https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg
+)
+![](https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png
+)
+![GIT](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg
+)  
 
 ---
 
