@@ -65,16 +65,6 @@
 <img align="left" alt="Terminal" width="32px" src="" />
 <img align="left" alt="Terminal" width="32px" src="" />
 
-
-
-
-
-
-
-
-
----
-
 ### 💻 Codewars:
 
 ![codewars](https://www.codewars.com/users/Tienam123/badges/large)
