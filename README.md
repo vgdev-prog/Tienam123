@@ -77,8 +77,7 @@
       <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tienam123&layout=compact&theme=vision-friendly-dark" />
     </td>
      <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tienam123&layout=compact&theme=vision-friendly-dark" />
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api?username=Tienam123&show_icons=true&theme=dark" />
     </td>
   </tr>
 </table>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tienam123&show_icons=true&theme=dark)
