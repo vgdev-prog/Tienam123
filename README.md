@@ -44,7 +44,6 @@
 
 ### 💻 Технологии:
 
-<div>
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -61,8 +60,6 @@
 <img align="left" alt="npm" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" />
 <img align="left" alt="Yarn" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/yarn/yarn-original.svg" />
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-</div>
-<div></div>
 
 
 
