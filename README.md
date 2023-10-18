@@ -11,9 +11,7 @@
 путь в it начался со Школы GOIT, где я прошел обучаюсь на направление FULL-STACK.В настоящий момент мое обучение
 продолжается, параллельно с этим я осваиваю некоторые другие технологии. SQL,PHP
 
-<p align="center">
- <img width="600" src="assets/github-snake.svg" alt="snake"/>
-</p>
+
 
 - :telescope: Здесь в будущем будет ссылка на портфолио.
 
@@ -64,10 +62,6 @@
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg" />
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mongodb/mongodb-original.svg" />
 </div>
-
----
-
-###
 
 ---
 
