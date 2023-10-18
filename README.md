@@ -63,6 +63,8 @@
 <img align="left" alt="Terminal" width="32px" src="" />
 <img align="left" alt="Terminal" width="32px" src="" />
 <img align="left" alt="Terminal" width="32px" src="" />
+<img align="left" alt="Terminal" width="32px" src="" />
+
 
 
 
