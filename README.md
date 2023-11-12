@@ -65,11 +65,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="48" height="48" />
 </div>
 
----
 
-### 💻 Codewars:
 
-![codewars](https://www.codewars.com/users/Tienam123/badges/large)
 
 ---
 ### Сертификаты
@@ -79,6 +76,12 @@
 <img src="https://testprovider.com/ru/certificate/TP13530944?51633" alt="JS Basic" width="200" height="150" />
 <img src="https://testprovider.com/ru/certificate/TP86727440?20011" alt="GIT" width="200" height="150" />
 </div>
+
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/Tienam123/badges/large)
+
+---
 
 ### ⚙️ GitHub статистика:
 
