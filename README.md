@@ -75,7 +75,7 @@
 ### Сертификаты
 <div>
   
-<img src="https://testprovider.com/ru/certificate/TP60955397?44806" alt="HTML" width="320" height="480" />
+<img src="https://testprovider.com/ru/certificate/TP60955397?44806" alt="HTML" width="100" height="200" />
 
 </div>
 ---
