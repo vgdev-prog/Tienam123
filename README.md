@@ -72,11 +72,11 @@
 ### Сертификаты
 
 <div>
-<img src="https://testprovider.com/ru/certificate/TP44274644?42199" alt="HTML" width="100" height="50" />
-<img src="https://testprovider.com/ru/certificate/TP60955397?44806" alt="GRID" width="100" height="50" />
-<img src="https://testprovider.com/ru/certificate/TP13530944?51633" alt="JS Basic" width="100" height="50" />
-<img src="https://testprovider.com/ru/certificate/TP86727440?20011" alt="GIT" width="100" height="50" />
-<img src="https://testprovider.com/ru/certificate/TP29914498?28044" alt="PHP" width="100" height="50" />
+<img src="https://testprovider.com/ru/certificate/TP44274644?42199" alt="HTML" width="100" height="70" />
+<img src="https://testprovider.com/ru/certificate/TP60955397?44806" alt="GRID" width="100" height="70" />
+<img src="https://testprovider.com/ru/certificate/TP13530944?51633" alt="JS Basic" width="100" height="70" />
+<img src="https://testprovider.com/ru/certificate/TP86727440?20011" alt="GIT" width="100" height="70" />
+<img src="https://testprovider.com/ru/certificate/TP29914498?28044" alt="PHP" width="100" height="70" />
 </div>
 
 ### 💻 Codewars:
