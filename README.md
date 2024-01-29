@@ -23,6 +23,8 @@
   мной: [![Telegram Badge](https://img.shields.io/badge/-ГончарВладислав-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/vlad_wo_rk) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:vladyslav.honchar1990@gmail.com)
 
 ---
+<figure><embed src="https://wakatime.com/share/@018af444-e49a-4402-8075-78608aabb723/4af55f20-5be9-4c08-a4e2-670231fd95fd.svg"></embed></figure>
+
 
 ### 🤝 Социальные сети:
 
