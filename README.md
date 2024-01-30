@@ -52,8 +52,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gulp/gulp-plain.svg" alt="GULP" width="48" height="48" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-plain.svg" alt="Wordpress" width="48" height="48" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="48" height="48" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="48" height="48" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="48" height="48" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MYSQL" width="48" height="48" />
