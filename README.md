@@ -29,7 +29,7 @@
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/vladyslav-honchar-6927ab285" target="_blank">
+    <a href="www.linkedin.com/in/владислав-гончар-62157b2b3" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
     <!-- <a href="https://t.me/vlad_wo_rk" target="_blank">
