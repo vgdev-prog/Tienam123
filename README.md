@@ -72,27 +72,18 @@
 ### Сертификаты
 
 <div>
-<img src="https://testprovider.com/ru/certificate/TP86727440?77173" alt="HTML" width="100" height="70" />
-<img src="" alt="HTML" width="100" height="70" />
-<img src="" alt="HTML" width="100" height="70" />
-<img src="" alt="HTML" width="100" height="70" />
-<img src="" alt="HTML" width="100" height="70" />
-<img src="" alt="HTML" width="100" height="70" />
-<img src="" alt="HTML" width="100" height="70" />
-<img src="" alt="HTML" width="100" height="70" />
-<img src="" alt="HTML" width="100" height="70" />
-<img src="" alt="HTML" width="100" height="70" />
-<img src="" alt="HTML" width="100" height="70" />
-<img src="" alt="HTML" width="100" height="70" />
-<img src="" alt="HTML" width="100" height="70" />
-<img src="" alt="HTML" width="100" height="70" />
-<img src="" alt="HTML" width="100" height="70" />
-<img src="" alt="HTML" width="100" height="70" />
-<img src="" alt="HTML" width="100" height="70" />
-<img src="" alt="HTML" width="100" height="70" />
-<img src="" alt="HTML" width="100" height="70" />
-<img src="" alt="HTML" width="100" height="70" />
-
+<img src="https://testprovider.com/ru/certificate/TP86727440?77173" alt="GIT" width="100" height="70" />
+<img src="https://testprovider.com/ru/certificate/TP13530944?57621" alt="JS Starter" width="100" height="70" />
+<img src="https://testprovider.com/ru/certificate/TP61982694?11593" alt="JS Base" width="100" height="70" />
+<img src="https://testprovider.com/ru/certificate/TP12796960?45639" alt="JS Advanced" width="100" height="70" />
+<img src="https://testprovider.com/ru/certificate/TP27901917?98496" alt="React" width="100" height="70" />
+<img src="https://testprovider.com/ru/certificate/TP44274644?27889" alt="HTML" width="100" height="70" />
+<img src="https://testprovider.com/ru/certificate/TP00657466?72950" alt="HTML" width="100" height="70" />
+<img src="https://testprovider.com/ru/certificate/TP52067357?38892" alt="HTML" width="100" height="70" />
+<img src="https://testprovider.com/ru/certificate/TP80381827?7805" alt="HTML" width="100" height="70" />
+<img src="https://testprovider.com/ru/certificate/TP08331175?99065" alt="HTML" width="100" height="70" />
+<img src="https://testprovider.com/ru/certificate/TP60955397?77272" alt="HTML" width="100" height="70" />
+<img src="https://testprovider.com/ru/certificate/tp96270393d" alt="HTML" width="100" height="70" />
 </div>
 
 ### 💻 Codewars:
