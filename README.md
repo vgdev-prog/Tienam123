@@ -26,6 +26,8 @@
 <figure><embed src="https://wakatime.com/share/@018af444-e49a-4402-8075-78608aabb723/4af55f20-5be9-4c08-a4e2-670231fd95fd.svg"></embed></figure>
 
 
+[![Vladyslav Honchar profile views](https://u8views.com/api/v1/github/profiles/123368743/views/day-week-month-total-count.svg)](https://u8views.com/github/Tienam123)
+
 ### 🤝 Социальные сети:
 
   <div id="badges">
