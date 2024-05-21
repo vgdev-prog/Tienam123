@@ -82,7 +82,9 @@
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" alt="Terminal" width="48" height="48" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="48" height="48" />
 </div>
+
 ---
+
 ### Сертификаты
 
 <div>
