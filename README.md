@@ -52,6 +52,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="swagger" width="48" height="48" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JS" width="48" height="48" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" width="48" height="48" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="Java" width="48" height="48" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line.svg" alt="Laravel" width="48" height="48" />
 <img src="https://www.marcus-povey.co.uk/wp-content/Twig.jpg" alt="Twig" width="48" height="48" />
