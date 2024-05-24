@@ -65,6 +65,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="48" height="48" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="Vue" width="48" height="48" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/nuxtjs/nuxtjs-original.svg" alt="Nuxt" width="48" height="48" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/vuetify/vuetify-original.svg" alt="Vuetify" width="48" height="48" />
 
 
 
