@@ -73,6 +73,7 @@
 <img src="https://rock-the-prototype.com/wp-content/uploads/2023/06/VueX.png" alt="Vue" width="48" height="48" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="48" height="48" />
 <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" alt="git" width="48" height="48" />
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*lsZvtmCOGN6rUJAZubvuyg.png" alt="git" width="48" height="48" />
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gulp/gulp-plain.svg" alt="GULP" width="48" height="48" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" />
