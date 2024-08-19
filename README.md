@@ -63,9 +63,9 @@
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line.svg" alt="Laravel" width="48" height="48" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="48" height="48" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next" width="48" height="48" />
 
 
-<img src="https://user-images.githubusercontent.com/6919381/149651295-0bf814f5-ad07-4d40-9af2-78dd99d8e1e7.png" alt="git" width="48" height="48" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="48" height="48" />
 <img src="https://seeklogo.com/images/R/react-query-logo-1340EA4CE9-seeklogo.com.png" alt="git" width="48" height="48" />
 
