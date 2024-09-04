@@ -66,7 +66,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next" width="48" height="48" />
 
 
-<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Zustand" width="48" height="48" />
+<img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" alt="Zustand" width="48" height="48" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="Redux" width="48" height="48" />
 
 
