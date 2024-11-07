@@ -7,10 +7,8 @@
 
 ### :man_technologist: Обо мне:
 
-Я начинающий веб разработчик<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой
-путь в it начался со Школы GOIT, где я прошел обучаюсь на направление FULL-STACK.В настоящий момент мое обучение
-продолжается, параллельно с этим я осваиваю некоторые другие технологии. SQL,PHP
-
+Full - stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой
+путь в it начался со Школы GOIT, где я прошел обучение.
 
 
 - :telescope: Здесь в будущем будет ссылка на портфолио.
