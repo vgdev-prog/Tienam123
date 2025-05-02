@@ -60,7 +60,7 @@ Full - stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-line.svg" alt="Laravel" width="48" height="48" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/symfony/symfony-original.svg" alt="Symfony" width="48" height="48" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" alt="Symfony" width="48" height="48" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node" width="48" height="48" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="48" height="48" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next" width="48" height="48" />
