@@ -7,13 +7,10 @@
 
 ### :man_technologist: Обо мне:
 
-Full - stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">. Мой
-путь в it начался со Школы GOIT, где я прошел обучение.
+Full - stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30px">.
 
 
 - :telescope: Здесь в будущем будет ссылка на портфолио.
-
-- :seedling: Обучаюсь на курсах по веб-разработке от GOIT а также ITVDN!
 
 - :zap: При возможности стараюсь браться за сложные и интересные идеи.
 
