@@ -96,9 +96,7 @@ Full - stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
     <td>
       <img height="195px" align="left" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tienam123&layout=compact&theme=vision-friendly-dark" />
     </td>
-  </tr>
-  <tr>
-     <td>
+    <td>
       <img height="195px" align="left" alt="webDev's Github Languages" src="https://github-readme-stats.vercel.app/api?username=Tienam123&show_icons=true&theme=vision-friendly-dark" />
     </td>
   </tr>
