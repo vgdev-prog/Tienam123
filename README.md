@@ -40,9 +40,6 @@ Full - stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 ---
 ### 💻 Технологии:  
 <div>
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML" width="48" height="48" />
-<img src="https://www.marcus-povey.co.uk/wp-content/Twig.jpg" alt="Twig" width="48" height="48" />
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS" width="48" height="48" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="SASS" width="48" height="48" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="48" height="48" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="swagger" width="48" height="48" />
