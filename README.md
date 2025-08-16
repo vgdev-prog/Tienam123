@@ -50,6 +50,8 @@ Full - stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JS" width="48" height="48" />
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="Typescript" width="48" height="48" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="Python" width="48" height="48" />
+
 
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="MYSQL" width="48" height="48" />
